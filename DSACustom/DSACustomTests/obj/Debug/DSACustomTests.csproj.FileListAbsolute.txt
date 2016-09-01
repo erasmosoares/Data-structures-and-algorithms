@@ -1,0 +1,16 @@
+C:\Desktop\Strategy\DSACustom\DSACustomTests\bin\Debug\DSACustomTests.dll
+C:\Desktop\Strategy\DSACustom\DSACustomTests\bin\Debug\DSACustomTests.pdb
+C:\Desktop\Strategy\DSACustom\DSACustomTests\bin\Debug\DSACustom.exe
+C:\Desktop\Strategy\DSACustom\DSACustomTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Desktop\Strategy\DSACustom\DSACustomTests\bin\Debug\DSACustom.pdb
+C:\Desktop\Strategy\DSACustom\DSACustomTests\obj\Debug\DSACustomTests.csprojResolveAssemblyReference.cache
+C:\Desktop\Strategy\DSACustom\DSACustomTests\obj\Debug\DSACustomTests.dll
+C:\Desktop\Strategy\DSACustom\DSACustomTests\obj\Debug\DSACustomTests.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\bin\Debug\DSACustomTests.dll
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\bin\Debug\DSACustomTests.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\bin\Debug\DSACustom.exe
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\bin\Debug\DSACustom.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\obj\Debug\DSACustomTests.csprojResolveAssemblyReference.cache
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\obj\Debug\DSACustomTests.dll
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\obj\Debug\DSACustomTests.pdb

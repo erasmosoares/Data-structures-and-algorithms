@@ -1,0 +1,6 @@
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Release\DataStructure.exe.config
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Release\DataStructure.exe
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Release\DataStructure.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Release\DataStructure.exe
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Release\DataStructure.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Release\DataStructures.csprojResolveAssemblyReference.cache

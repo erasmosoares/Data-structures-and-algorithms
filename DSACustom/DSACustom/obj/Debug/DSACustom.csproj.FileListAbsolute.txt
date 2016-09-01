@@ -1,0 +1,24 @@
+C:\Users\esaj.CESAR-LDAP\Desktop\Strategy\DSACustom\DSACustom\bin\Debug\DSACustom.exe.config
+C:\Users\esaj.CESAR-LDAP\Desktop\Strategy\DSACustom\DSACustom\bin\Debug\DSACustom.exe
+C:\Users\esaj.CESAR-LDAP\Desktop\Strategy\DSACustom\DSACustom\bin\Debug\DSACustom.pdb
+C:\Users\esaj.CESAR-LDAP\Desktop\Strategy\DSACustom\DSACustom\obj\Debug\DSACustom.csprojResolveAssemblyReference.cache
+C:\Users\esaj.CESAR-LDAP\Desktop\Strategy\DSACustom\DSACustom\obj\Debug\DSACustom.exe
+C:\Users\esaj.CESAR-LDAP\Desktop\Strategy\DSACustom\DSACustom\obj\Debug\DSACustom.pdb
+C:\Desktop\Strategy\DSACustom\DSACustom\bin\Debug\DSACustom.exe.config
+C:\Desktop\Strategy\DSACustom\DSACustom\obj\Debug\DSACustom.exe
+C:\Desktop\Strategy\DSACustom\DSACustom\obj\Debug\DSACustom.pdb
+C:\Desktop\Strategy\DSACustom\DSACustom\bin\Debug\DSACustom.exe
+C:\Desktop\Strategy\DSACustom\DSACustom\bin\Debug\DSACustom.pdb
+C:\Desktop\Strategy\DSACustom\DSACustom\obj\Debug\DSACustom.csprojResolveAssemblyReference.cache
+C:\Backups\DSACustom\DSACustom\bin\Debug\DSACustom.exe.config
+C:\Backups\DSACustom\DSACustom\obj\Debug\DSACustom.exe
+C:\Backups\DSACustom\DSACustom\obj\Debug\DSACustom.pdb
+C:\Backups\DSACustom\DSACustom\bin\Debug\DSACustom.exe
+C:\Backups\DSACustom\DSACustom\bin\Debug\DSACustom.pdb
+C:\Backups\DSACustom\DSACustom\obj\Debug\DSACustom.csprojResolveAssemblyReference.cache
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Debug\DSACustom.exe.config
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Debug\DSACustom.exe
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Debug\DSACustom.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Debug\DSACustom.exe
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Debug\DSACustom.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Debug\DSACustom.csprojResolveAssemblyReference.cache

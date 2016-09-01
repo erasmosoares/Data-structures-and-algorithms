@@ -1,0 +1,6 @@
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Release\DSACustom.exe.config
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Release\DSACustom.exe
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Release\DSACustom.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Release\DSACustom.exe
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Release\DSACustom.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Release\DSACustom.csprojResolveAssemblyReference.cache
