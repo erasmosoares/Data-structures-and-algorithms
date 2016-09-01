@@ -11,7 +11,7 @@ Include:
 
 Queue.cs
 Stack.cs
-DataStructuresTes.cs
+DataStructuresTest.cs
 ================
 
 Soon I will add Trees and Sorting Algorithms
