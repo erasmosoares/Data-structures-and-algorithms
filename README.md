@@ -9,9 +9,8 @@ Queue
 Stack implementation using array
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png)
-Unity Tests
-Including uni tests:
 
+Files:
 Queue.cs
 Stack.cs
 DataStructuresTest.cs
