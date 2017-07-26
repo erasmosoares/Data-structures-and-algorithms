@@ -11,13 +11,3 @@ Stack implementation using array
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png)
 
-Files:
-
-Queue.cs
-
-Stack.cs
-
-DataStructuresTest.cs
-
-Enjoy
-Erasmo
