@@ -1,17 +1,19 @@
 # Data-structures-and-algorithms
 
-Some data structures and algorithms codes in C#
+Some basic data structures and algorithms codes in C#
 
-Queue / Stack implementation using array
+Queue 
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/52/Data_Queue.svg)
+
+Stack implementation using array
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png)
 Unity Tests
-Include:
+Including uni tests:
 
 Queue.cs
 Stack.cs
 DataStructuresTest.cs
 
-
-Soon I will add Trees and Sorting Algorithms
-
-Thanks
+Erasmo
