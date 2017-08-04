@@ -1,7 +1,0 @@
-C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\obj\Release\DataStructuresTests.csprojResolveAssemblyReference.cache
-C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\bin\Release\DataStructureTests.dll
-C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\bin\Release\DataStructureTests.pdb
-C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\bin\Release\DataStructure.exe
-C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\bin\Release\DataStructure.pdb
-C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\obj\Release\DataStructureTests.dll
-C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustomTests\obj\Release\DataStructureTests.pdb

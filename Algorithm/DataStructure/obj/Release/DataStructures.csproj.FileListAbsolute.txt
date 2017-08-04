@@ -1,0 +1,12 @@
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Release\DataStructure.exe.config
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Release\DataStructure.exe
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\bin\Release\DataStructure.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Release\DataStructure.exe
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Release\DataStructure.pdb
+C:\Backups\Code\Estrutura de Dados\DSACustom\DSACustom\obj\Release\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\bin\Release\DataStructure.exe.config
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\obj\Release\DataStructure.exe
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\obj\Release\DataStructure.pdb
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\bin\Release\DataStructure.exe
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\bin\Release\DataStructure.pdb
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\obj\Release\DataStructures.csprojResolveAssemblyReference.cache
