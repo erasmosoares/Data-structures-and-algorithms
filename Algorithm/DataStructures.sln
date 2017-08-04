@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 14 for Windows Desktop
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DSACustom\DataStructures.csproj", "{FB19A2B1-0512-45D0-B8C2-16A67E082337}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructure\DataStructures.csproj", "{FB19A2B1-0512-45D0-B8C2-16A67E082337}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresTests", "DSACustomTests\DataStructuresTests.csproj", "{F76862E5-455E-480F-8D60-F66F816CB7EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresTests", "DataStructureTests\DataStructuresTests.csproj", "{F76862E5-455E-480F-8D60-F66F816CB7EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

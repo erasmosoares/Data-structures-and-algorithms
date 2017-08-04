@@ -56,7 +56,7 @@
     <Compile Include="DataStructuresTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DSACustom\DataStructures.csproj">
+    <ProjectReference Include="..\DataStructure\DataStructures.csproj">
       <Project>{FB19A2B1-0512-45D0-B8C2-16A67E082337}</Project>
       <Name>DataStructures</Name>
     </ProjectReference>

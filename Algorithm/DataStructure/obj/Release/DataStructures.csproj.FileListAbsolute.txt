@@ -10,3 +10,9 @@ C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\obj
 C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\bin\Release\DataStructure.exe
 C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\bin\Release\DataStructure.pdb
 C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustom\obj\Release\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructure\bin\Release\DataStructure.exe.config
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructure\obj\Release\DataStructure.exe
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructure\obj\Release\DataStructure.pdb
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructure\bin\Release\DataStructure.exe
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructure\bin\Release\DataStructure.pdb
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructure\obj\Release\DataStructures.csprojResolveAssemblyReference.cache

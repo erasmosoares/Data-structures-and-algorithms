@@ -12,3 +12,10 @@ C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustomTest
 C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustomTests\obj\Release\DataStructuresTests.csprojResolveAssemblyReference.cache
 C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustomTests\obj\Release\DataStructureTests.dll
 C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\DSACustom\DSACustomTests\obj\Release\DataStructureTests.pdb
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructureTests\bin\Release\DataStructureTests.dll
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructureTests\bin\Release\DataStructureTests.pdb
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructureTests\bin\Release\DataStructure.exe
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructureTests\bin\Release\DataStructure.pdb
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructureTests\obj\Release\DataStructuresTests.csprojResolveAssemblyReference.cache
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructureTests\obj\Release\DataStructureTests.dll
+C:\Users\esaj\Desktop\Alg\Data-structures-and-algorithms\Algorithm\DataStructureTests\obj\Release\DataStructureTests.pdb

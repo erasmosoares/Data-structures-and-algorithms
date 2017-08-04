@@ -7,6 +7,18 @@ namespace DataStructure.Tests
     public class QueueTests
     {
         [TestMethod()]
+        public void QuickSortTest()
+        {
+            QuickSortAlg Qs = new QuickSortAlg();
+
+            int[] array = new int[7] { 9, 2, 6, 4, 3, 5, 1 };
+
+            Qs.QuickSort(array);
+
+            Assert.AreEqual(1, array[0]);
+        }
+
+        [TestMethod()]
         public void StackPushTest()
         {
             int firstDataExpected = 1;
